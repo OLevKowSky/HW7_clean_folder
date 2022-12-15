@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+src/ReqFunc/ReqFunc.py
+src/ReqFunc/__init__.py
+src/ReqFunc/normalize.py
+src/clean_folder.egg-info/PKG-INFO
+src/clean_folder.egg-info/SOURCES.txt
+src/clean_folder.egg-info/dependency_links.txt
+src/clean_folder.egg-info/top_level.txt
